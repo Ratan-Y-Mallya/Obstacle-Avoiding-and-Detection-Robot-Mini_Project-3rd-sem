@@ -80,9 +80,7 @@ To build this robot, you’ll need the following components:
 4. Power the Robot:
    - Connect the battery pack to power the Arduino and motors.
   
-##  Demonstration
 
----
 ## Future Enhancements
    - Add more ultrasonic sensors for 360-degree obstacle detection.
    - Integrate infrared sensors for enhanced precision.
